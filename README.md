@@ -1,2 +1,2 @@
 # Shopping-website
-# view Project : 
+# view Project : https://shoppingwebsandip.netlify.app
